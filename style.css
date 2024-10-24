@@ -1,0 +1,39 @@
+header.text{
+    text-align: center;
+}
+
+
+.caja{
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin:0px;
+}
+
+.rectangulo{
+    width: 2000px;
+    height: 30px;
+}
+
+ .verde{
+    background-color: green;
+ }
+
+.azul {
+    background-color: blue;
+}
+
+.roja {
+    background-color: red;
+}
+
+.amarilla {
+    background-color: yellow;
+}
+
+.Web{
+    background-color: cadetblue; 
+    color: black;
+    width: 2000px;
+    height: 15px;
+}
